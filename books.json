@@ -1,0 +1,37 @@
+[
+    {
+        "id": "",
+        "title": "Nordens ABC",
+        "author": "Kalle Kallesson",
+        "pages": 250,
+        "available": true
+    },
+        {
+        "id": "",
+        "title": "Berits betor & grönt",
+        "author": "Berit Ohlson",
+        "pages": 25,
+        "available": true
+    },
+        {
+        "id": "",
+        "title": "Stall for dummies",
+        "author": "Malin B",
+        "pages": 250,
+        "available": false
+    },
+        {
+        "id": "",
+        "title": "Skägg",
+        "author": "Jan-Emanuel",
+        "pages": 550,
+        "available": true
+    },
+        {
+        "id": "",
+        "title": "Livet på Mars",
+        "author": "Eloff Mask",
+        "pages": 450,
+        "available": true
+    }
+]
